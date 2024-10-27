@@ -1,0 +1,4 @@
+Process 1: Pattern found at global position: 52
+Process 1: Pattern found at global position: 67
+Process 6: Pattern found at global position: 282
+Process 8: Pattern found at global position: 395
