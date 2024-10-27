@@ -1,0 +1,1 @@
+the inputs are generated using https://faculty.ucr.edu/~mmaduro/random.htm with GC content being 0.5
